@@ -1,0 +1,32 @@
+[
+    {
+        "link": "Início",
+        "path":"/assets/imagens/icones/home.png",
+        "alt": "Ícone de uma casa",
+        "id": "1" 
+    },
+    {
+        "link": "Mais curtidas",
+        "path":"/assets/imagens/icones/mais-curtidas.png",
+        "alt": "Ícone de um olho",
+        "id": "2" 
+    },
+    {
+        "link": "Mais vistas",
+        "path":"/assets/imagens/icones/mais-vistas.png",
+        "alt": "Ícone de uma mão com o polegar opositor levantado",
+        "id": "3" 
+    },
+    {
+        "link": "Novas",
+        "path":"/assets/imagens/icones/novas.png",
+        "alt": "Ícone de uma estrela brilhante",
+        "id": "4" 
+    },
+    {
+        "link": "Surpreenda-me",
+        "path":"/assets/imagens/icones/surpreenda-me.png",
+        "alt": "Ícone de uma lâmpada",
+        "id": "5" 
+    }
+]
